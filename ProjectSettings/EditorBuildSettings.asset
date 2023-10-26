@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Prop_Videojuego/Scenes/Examen_Dado.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Prop_Videojuego/Scenes/Prop_Videojuego.unity
+    guid: c1d679bb6caaa50408d454892843c582
   m_configObjects: {}
